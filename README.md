@@ -24,8 +24,15 @@ firebaseを利用してサーバーと連動しました。
 1番の画面には無いもっと高いレベルの運動がやりたい場合使用者が選択する事ができる画面です。<br>
 <img width="286" alt="スクリーンショット 2019-05-08 8 17 25" src="https://user-images.githubusercontent.com/45877091/57338817-bdb87d00-7169-11e9-948d-f3535f0a9ec1.png"><br><br>
 
+<h3>Firebaseのデータベースの画面</h3>
+1番画面には無い様々な運動をサーバーのデータベースにアップロードした画面です。<br>
+サーバーのデータベースから色んな動画を読み込むする事が出来ます。<br>
+<img width="591" alt="スクリーンショット 2019-05-08 8 31 52" src="https://user-images.githubusercontent.com/45877091/57339244-ce69f280-716b-11e9-9506-dd882badd870.png">
+
+
 <h3>3番の画面</h3><br>
 運動する時大事なモチベーションや運動の目標を達成するとやりたい事を入力する事ができる画面です。<br>
+SwiftのRealmのライブラリを利用してlocal Databaseを使用しました。<br>
 <img width="286" alt="スクリーンショット 2019-05-08 7 47 10" src="https://user-images.githubusercontent.com/45877091/57339016-a5952d80-716a-11e9-9344-1edf46f2e5b3.png"><br><br>
 
 <h3>4番の画面</h3><br>
